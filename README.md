@@ -2,4 +2,4 @@
 
 source: http://www.practicepython.org/exercises/
 
-Much thanks to the author: Michele Pratusevich
+Much thanks to the author, Michele Pratusevich, for creating the exercises.
