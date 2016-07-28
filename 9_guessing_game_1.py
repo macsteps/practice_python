@@ -7,6 +7,7 @@ guess = 0
 
 while finished == "false":
     num = randint(1,9)
+    print num
     while guess != num:
         guess = raw_input("Guess a number between 1 and 9 or 'exit'  -> ")
         counter = counter + 1
